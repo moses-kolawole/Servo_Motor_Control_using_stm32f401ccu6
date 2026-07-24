@@ -6,6 +6,9 @@ This project demonstrates how to control a servo motor using Pulse Width Modulat
 ## Project Code
 [Click Here to check out the project code](code)
 
+## Project Image
+![Check out the project image here](images/IMG_20260724_135121_910.jpg)
+
 ## Final Outcome
 - Servo motor rotates smoothly from 0° to 180°.
 - Servo returns smoothly from 180° back to 0°.
@@ -17,6 +20,10 @@ This project demonstrates how to control a servo motor using Pulse Width Modulat
 - Smooth bidirectional movement
 - Timer-based PWM using TIM3
 - Register-level (Bare-Metal) STM32 programming
+
+## Project Demo Video
+[Click here to check out the project Demo video](https://youtube.com/shorts/6LCV3yebBg4?feature=share)
+
 
 ## Hardware Used
 - STM32F401CCU6 Black Pill
